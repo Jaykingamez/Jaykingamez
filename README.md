@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jaykingamez
 - 👀 I’m interested in drawing, programming, music making. 
-- 🌱 I’m currently learning AWS IoT, Amplify
-- 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me, please don't it... It gives social anxiety lol
   
 [![sichan's 42 stats](https://badge42.vercel.app/api/v2/cljwi5udc002108l7he1zt6x6/stats?cursusId=9&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
